@@ -24,9 +24,6 @@ Web frameworks like Flask or Django
 
 Version control and collaboration via Git and GitHub
 
-🤖 Past Experience
-I’ve worked as a robotics consultant, where I used C++ for CAD-related programming and embedded systems.
-
 📂 Open to Internships
 I'm actively looking for internship roles where I can grow, contribute to real-world projects, and collaborate with experienced developers.
 
