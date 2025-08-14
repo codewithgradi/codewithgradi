@@ -5,7 +5,7 @@ I'm currently pursuing my degree in IT and actively building my skills in web de
 
 Frontend: HTML, CSS, JavaScript
 
-Backend & Data: Python, SQL, SQLite
+Backend & Data: FastAPI, SQL, SQLite, MongoDB
 
 Tools & Platforms: Git, VS Code, Jupyter Notebook, SQLite Studio
 
