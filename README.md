@@ -3,9 +3,9 @@ I'm currently pursuing my degree in IT and actively building my skills in web de
 
 💻 Tech Stack Highlights
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML/CSS, React JS
 
-Backend & Data: FastAPI, SQL, SQLite, MongoDB
+Backend & Data: FastAPI, SQL, SQLite, MongoDB, NextJS
 
 Tools & Platforms: Git, VS Code, Jupyter Notebook, SQLite Studio
 
