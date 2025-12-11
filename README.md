@@ -1,15 +1,9 @@
 👋 Hi there! I'm an aspiring Software Engineer
-I'm currently pursuing my degree in IT and actively building my skills in web development, data science, and software engineering.
+I'm currently pursuing my degree in IT and actively building my skills in software engineering.
 
 💻 Tech Stack Highlights
-
-Frontend: HTML/CSS, React JS
-
-Backend & Data: FastAPI, SQL, SQLite, MongoDB, NextJS
-
+ HTML/CSS, React JS, SQL, SQLite, MongoDB, NextJS
 Tools & Platforms: Git, VS Code, Jupyter Notebook, SQLite Studio
-
-Python for Data Science (Pandas, NumPy, Matplotlib, etc.)
 
 Version control and collaboration via Git and GitHub
 
