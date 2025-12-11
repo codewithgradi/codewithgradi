@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gradi Puata</h1>
 <h3 align="center">A passionate and aspiring software engineer.</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/codewithgradi](https://github.com/codewithgradi)
+
 - 📫 How to reach me **gradipuata@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/grai-puata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grai-puata" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gradi-puata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gradi-puata" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/4075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="4075" height="30" width="40" /></a>
 </p>
 
