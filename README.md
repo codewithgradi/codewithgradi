@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | Backend Architect | AI Enthusiast<br>I specialize in building scalable backend solutions and modern web applications. Currently, I'm deep-diving into high-performance architecture using ASP.NET Core Web APIs and integrating AI capabilities into traditional workflows.
+Full-Stack Developer | Backend Architect | AI Enthusiast<br>I specialize in building scalable backend solutions and modern  applications. Currently, I'm deep-diving into high-performance architecture using ASP.NET Core Web APIs and integrating AI capabilities into traditional workflows.
 
 
 ## 🌐 Socials:
