@@ -1,28 +1,168 @@
-# 💫 About Me:
-Full-Stack Developer | Backend Architect | AI Enthusiast<br>I specialize in building scalable backend solutions and modern  applications. Currently, I'm deep-diving into high-performance architecture using ASP.NET Core Web APIs and integrating AI capabilities into traditional workflows.
+````md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0A192F,100:2563EB&height=220&section=header&text=Gradi%20Puata&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%" />
+</p>
 
-# Gradi.Security.Jwt
-[![NuGet](https://img.shields.io/badge/NuGet-v1.0.0-blue.svg)](https://github.com/codewithgradi/Gradi.Security.Jwt/packages)
-[![Platform](https://img.shields.io/badge/.NET-10.0-purple.svg)](https://dotnet.microsoft.com/)
-
-A reusable JWT security wrapper to standardize authentication across .NET APIs.
-
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithgradi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codewithgradi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgradi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;Building+Scalable+Applications;Full-Stack+Developer;Cloud+%26+Backend+Engineering;Modern+Web+Experiences" />
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gradi-puata) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gradipuata@gmail.com) 
+<div align="center">
 
+### ⚡ Building reliable systems. Solving real problems. Creating impact.
 
-[![](https://visitcount.itsvg.in/api?id=codewithgradi&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```ts
+const gradiPuata = {
+    title: "Software Engineer",
+    location: "South Africa 🇿🇦",
+    
+    focus: [
+        "Full-Stack Development",
+        "Cloud & Backend Engineering",
+        "Scalable Web Applications",
+        "API Architecture",
+        "Modern Frontend Experiences"
+    ],
+
+    currentStack: {
+        backend: [".NET Core", "FastAPI", "Node.js"],
+        frontend: ["React", "Next.js", "TypeScript"],
+        databases: ["PostgreSQL", "MongoDB"],
+        tools: ["Docker", "Git"]
+    },
+
+    philosophy: "Clean architecture. Scalable systems. Meaningful products."
+};
+````
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,python,fastapi" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+* ⚡ Building scalable full-stack applications
+* 🧠 Improving system design & backend architecture
+* ☁️ Learning advanced cloud deployment strategies
+* 🔐 API security & performance optimization
+* 📦 Creating production-ready SaaS applications
+
+---
+
+# 🌌 Featured Projects
+
+<div align="center">
+
+| Project                     | Description                                                          | Stack                            |
+| --------------------------- | -------------------------------------------------------------------- | -------------------------------- |
+| 🚀 Simpli Web API           | Clean architecture .NET API with authentication & repository pattern | `.NET Core` `PostgreSQL`         |
+| 🌐 Full-Stack SaaS Platform | Modern scalable SaaS application                                     | `Next.js` `TypeScript` `MongoDB` |
+| ⚡ FastAPI Social Platform   | Social media backend with scalable APIs                              | `FastAPI` `Python`               |
+| 📊 Developer Portfolio      | Futuristic developer portfolio website                               | `React` `Next.js`                |
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&line=3B82F6&point=FFFFFF&color=3B82F6" width="100%"/>
+
+</div>
+
+---
+
+# 🧠 Engineering Principles
+
+<div align="center">
+
+💡 Clean Code
+⚡ Performance First
+🔒 Secure by Design
+📦 Scalable Architecture
+🌍 Build for Real Impact
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Quote
+
+<div align="center">
+
+> *"Great software is not just written — it is engineered with purpose."*
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0A192F,100:2563EB&height=140&section=footer"/>
+</p>
+```
