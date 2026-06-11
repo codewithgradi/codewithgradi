@@ -1,5 +1,9 @@
 # 💫 About Me:
-HI
+I am a Junior Software Developer and BSc IT student with hands on experience building full stack web applications using modern frameworks. I enjoy turning real problems into clean, scalable solutions with a strong focus on usability and performance.
+
+I have professional experience working as a Junior Software Developer where I contributed to web applications using React, Next.js, TypeScript, REST APIs,  ASP .NET Core ,relational and non relational databases . I enjoy collaborating with teams, learning from production codebases, and continuously improving my development skills.
+
+I am currently focused on growing as a full stack developer and working toward a full time software engineering role.
 
 
 ## 🌐 Socials:
