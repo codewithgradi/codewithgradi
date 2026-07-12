@@ -1,59 +1,88 @@
-<table border="0" width="100%">
-  <tr valign="top">
-    <!-- Left Column: ASCII Art Portrait Silhouette -->
-    <td width="40%">
-<pre>
-       g@M%%%@N%Nw,,
-     ,M*|`||*%gNM=]MM%g||%N,
-    p!`  '! '|`   ''||jhlj%w
-   ,@L`             '!|j%M]%M
-  ]j'` .,wp@pw,       '|||%Wg
- ,|` [@@@@@@@@@pp,       ||||
- '| `]@@@@@@@@@@@@p
-   :]%%@@@@@@%%%%k%h '*||mkr   *
-   j%M`    |jkk`   ~nrn=|i    *
-   ! jrr*^          `"! L''|'!
-   j lp;.,  ,/ @@   ,;\nmy ` ~,
-  i r @@@@mmHM @@@@ ~****M*,p ,
-  | ]@@@@HHH]g@M%%%%H,jmgpmb% j
-  ;;%%%%%k%@[.,n|:.,;j%%k\%kk%',[
-  H\%%k%%j%k||,,;:;j||'%ij}]@
-  "djjmkL,"]]`[,,,wwxw;#kjk`
-     %;%km%%%%M|%%jkkii||[
-      kjj%%kkkl||||||||`
-        |jm%H@@b%%kkmk%i!,[
-        @p|j%%%%jkk|||j`*;j
-        ]@@@g|`       ,;;j%k
-        @@@@@mgmp:,,,,;;jj%%k%
-        @@@@@@%%kgki!|jjjj%k%@ .
-   .^['' %@@@HH%b%k{illljkjj%%%% ; `,
- =[' ` . %HH%%%%H@gkilljjj%kk%".  ` \i
-</pre>
-    </td>
+````html
+<table border="0">
+<tr>
 
-    <!-- Right Column: System Info & Dynamic Stats -->
-    <td width="60%">
-<pre>
-<b>codewithgradi</b>@<b>localhost</b> 
---------------------------------------------------
-• <b>OS</b>: ........................... Linux, Windows
-• <b>Uptime</b>: .......................... 22 years old
-• <b>Kernel/Role</b>: ................ Software Engineer
-• <b>IDE</b>: ................... VS Code, Visual Studio
+<!-- LEFT COLUMN -->
+<td valign="top">
 
-• <b>Languages.Programming</b>: .. C#, Python, TypeScript
-• <b>Languages.Markup</b>: ........... HTML, CSS, JSON
+```text
+             ███████████████
+         ███████████████████████
+      █████████████████████████████
+    █████████████████████████████████
+   ████████████         █████████████
+  ██████████               ███████████
+ █████████                   ██████████
+ ████████                     █████████
+████████                       ████████
+███████                         ███████
+██████                           ██████
+██████                           ██████
+██████                           ██████
+██████                           ██████
+██████                           ██████
+███████                         ███████
+████████                       ████████
+ █████████                   █████████
+ ██████████                 ██████████
+  ███████████             ███████████
+   █████████████       █████████████
+    ███████████████████████████████
+      ███████████████████████████
+         █████████████████████
+             █████████████
+````
 
-• <b>Hobbies.Software</b>: .......... Building Web APIs
-• <b>Hobbies.Physical</b>: .......... Running, Basketball
+</td>
 
-• <b>Contact.Email</b>: ........... gradipuata@gmail.com
-• <b>Contact.LinkedIn</b>: ................. gradi-puata
-</pre>
+<!-- RIGHT COLUMN -->
 
-<!-- Dynamic Live GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Gradi's GitHub Stats" width="400" />
+<td valign="top">
 
-    </td>
-  </tr>
+```text
+codewithgradi@localhost
+-----------------------
+
+OS.......................Linux / Windows
+Uptime...................22 years old
+Kernel...................Software Engineer
+Languages................C# / Python / TypeScript
+Hobbies..................Software / Running / Basketball
+Contact..................gradipuata@gmail.com
+GitHub...................gradi-puata
+Shell....................PowerShell / Bash
+Editor...................VS Code
+```
+
+<table border="0">
+<tr>
+<td>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+</td>
+
+<td>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgradi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<img width="100%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=codewithgradi&theme=tokyonight&hide_border=true&background=00000000"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithgradi&theme=tokyonight"/>
+</td>
+</tr>
 </table>
+
+</td>
+</tr>
+</table>
+```
