@@ -1,7 +1,4 @@
-<table border="0" width="100%">
-  <tr valign="top">
-    <!-- 1. LEFT COLUMN: ASCII Art -->
-    <td width="30%">
+
 <pre>
        g@M%%%@N%Nw,,
      ,M*|`||*%gNM=]MM%g||%N,
@@ -29,10 +26,7 @@
    .^['' %@@@HH%b%k{illljkjj%%%% ; `,
  =[' ` . %HH%%%%H@gkilljjj%kk%".  ` \i
 </pre>
-    </td>
 
-    <!-- 2. MIDDLE COLUMN: System Text Specs -->
-    <td width="35%">
 <pre>
 <b>codewithgradi</b>@<b>localhost</b> 
 ---------------------------------------
