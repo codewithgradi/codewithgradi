@@ -44,11 +44,6 @@
 • <b>Contact.Email</b>: .. gradipuata@gmail.com
 • <b>Contact.In</b>: .......... gradi-puata
 </pre>
-    </td>
-
-    <!-- 3. RIGHT COLUMN: Live Stats Card -->
-    <td width="35%" valign="middle">
-      <img src="[https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)" alt="Gradi's GitHub Stats" width="360" />
-    </td>
+   
   </tr>
 </table>
