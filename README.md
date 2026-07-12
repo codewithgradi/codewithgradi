@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Scalable+Software" />
 
 </div>
 
@@ -15,6 +15,7 @@
 │ SYSTEM PROFILE INITIALIZED              │
 ├──────────────────────────────────────────┤
 │ Name      : Gradi Puata                 │
+│ Username  : codewithgradi               │
 │ Role      : Software Engineer           │
 │ Location  : Durban, South Africa        │
 │ Education : BSc Information Technology  │
@@ -26,6 +27,8 @@
 └──────────────────────────────────────────┘
 ```
 
+<br clear="right"/>
+
 ---
 
 # ⚡ Tech Arsenal
@@ -34,19 +37,19 @@
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,fastapi)
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,fastapi" />
 
 ### Databases
 
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
 
 ### Tools & Platforms
 
-![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
 
 </div>
 
@@ -56,7 +59,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgradi&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -68,7 +71,7 @@
 
 ## 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithgradi&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=codewithgradi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -108,7 +111,9 @@
 
 # 🚀 Featured Technologies
 
-<table>
+<div align="center">
+
+<table border="0">
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="65"/>
@@ -142,11 +147,13 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
 # 🌌 Development Philosophy
 
-> "Code should not only solve today's problems but create possibilities for tomorrow."
+> *"Code should not only solve today's problems but create possibilities for tomorrow."*
 
 * Build scalable systems.
 * Write maintainable code.
@@ -172,7 +179,7 @@ Learning Speed  ███████████████░ 94%
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/codewithgradi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/codewithgradi/codewithgradi/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -180,9 +187,9 @@ Learning Speed  ███████████████░ 94%
 
 <div align="center">
 
-### 🌍 Visitors
+## 🌍 Profile Views
 
-![](https://komarev.com/ghpvc/?username=codewithgradi\&label=Profile+Views\&color=0e75b6\&style=flat)
+<img src="https://komarev.com/ghpvc/?username=codewithgradi&label=Profile+Views&color=00F7FF&style=flat-square" />
 
 </div>
 
@@ -200,8 +207,28 @@ MODE: SHIPPING FEATURES
 NEXT TARGET: WORLD CLASS ENGINEER
 ```
 
+</div>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://github.com/codewithgradi">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
