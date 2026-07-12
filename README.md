@@ -1,6 +1,6 @@
 <table border="0" width="100%">
   <tr valign="top">
-    <td width="50%">
+    <td width="30%">
 <pre>
        g@M%%%@N%Nw,,
      ,M*|`||*%gNM=]MM%g||%N,
