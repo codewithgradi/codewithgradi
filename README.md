@@ -1,4 +1,6 @@
-
+<table border="0" width="100%">
+  <tr valign="top">
+    <td width="50%">
 <pre>
        g@M%%%@N%Nw,,
      ,M*|`||*%gNM=]MM%g||%N,
@@ -26,7 +28,8 @@
    .^['' %@@@HH%b%k{illljkjj%%%% ; `,
  =[' ` . %HH%%%%H@gkilljjj%kk%".  ` \i
 </pre>
-
+    </td>
+    <td width="50%">
 <pre>
 <b>codewithgradi</b>@<b>localhost</b> 
 ---------------------------------------
@@ -44,6 +47,6 @@
 • <b>Contact.Email</b>: .. gradipuata@gmail.com
 • <b>Contact.In</b>: .......... gradi-puata
 </pre>
-   
+    </td>
   </tr>
 </table>
