@@ -1,7 +1,7 @@
 <table border="0" width="100%">
   <tr valign="top">
-    <!-- Left Column: ASCII Art Portrait Silhouette -->
-    <td width="35%">
+    <!-- 1. LEFT COLUMN: ASCII Art -->
+    <td width="30%">
 <pre>
        g@M%%%@N%Nw,,
      ,M*|`||*%gNM=]MM%g||%N,
@@ -31,12 +31,12 @@
 </pre>
     </td>
 
-    <!-- Middle Column: System Info Text -->
+    <!-- 2. MIDDLE COLUMN: System Text Specs -->
     <td width="35%">
 <pre>
 <b>codewithgradi</b>@<b>localhost</b> 
---------------------------------------
-• <b>OS</b>: ............... Linux, Windows
+---------------------------------------
+• <b>OS</b>: ................ Linux, Windows
 • <b>Uptime</b>: .............. 22 years old
 • <b>Kernel/Role</b>: .... Software Engineer
 • <b>IDE</b>: ....... VS Code, Visual Studio
@@ -52,9 +52,9 @@
 </pre>
     </td>
 
-    <!-- Right Column: Dynamic Live GitHub Stats Card -->
-    <td width="30%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Gradi's GitHub Stats" width="100%" />
+    <!-- 3. RIGHT COLUMN: Live Stats Card -->
+    <td width="35%" valign="middle">
+      <img src="[https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)" alt="Gradi's GitHub Stats" width="360" />
     </td>
   </tr>
 </table>
