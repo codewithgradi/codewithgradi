@@ -2,13 +2,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Scalable+Software" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full-Stack%20Developer;React%20%7C%20Next.js%20%7C%20.NET%20Developer;Building%20Modern%20Web%20Applications;Always%20Learning%20New%20Technologies&font=JetBrains%20Mono&center=true&width=900&height=60&color=00F7FF&vCenter=true&pause=1000&size=28" />
 
 </div>
 
 ---
 
-<img align="right" width="420" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif">
+<table border="0">
+<tr>
+<td width="55%">
 
 ```yaml
 ┌──────────────────────────────────────────┐
@@ -18,7 +20,7 @@
 │ Username  : codewithgradi               │
 │ Role      : Software Engineer           │
 │ Location  : Durban, South Africa        │
-│ Education : BSc Information Technology  │
+│ Degree    : BSc Information Technology  │
 │ Focus     : Full Stack Development      │
 │ Backend   : .NET • Python • APIs        │
 │ Frontend  : React • Next.js • TS        │
@@ -27,7 +29,15 @@
 └──────────────────────────────────────────┘
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="45%">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,117 +59,21 @@
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgradi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=codewithgradi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithgradi&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Achievement System
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithgradi&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 🧠 Current Mission Objectives
+# 🚀 Current Focus
 
 ```text
-[███████████████████████░░░░░] Full Stack Engineering
-[█████████████████████░░░░░░░] Cloud Architecture
-[███████████████████░░░░░░░░░] AI Integration
-[████████████████████░░░░░░░░] Backend Systems
-[██████████████████░░░░░░░░░░] Mobile Development
+███████████████████████░░░ Full Stack Engineering
+█████████████████████░░░░░ Cloud Architecture
+████████████████████░░░░░░ Backend Systems
+███████████████████░░░░░░░ AI Integrations
+██████████████████░░░░░░░░ Mobile Development
 ```
-
----
-
-# 🚀 Featured Technologies
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="65"/>
-<br>React
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
-<br>Next.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dotnet" width="65"/>
-<br>.NET
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="65"/>
-<br>Python
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="65"/>
-<br>PostgreSQL
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65"/>
-<br>MongoDB
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🌌 Development Philosophy
-
-> *"Code should not only solve today's problems but create possibilities for tomorrow."*
-
-* Build scalable systems.
-* Write maintainable code.
-* Continuously learn.
-* Focus on user experience.
-* Create technology that matters.
 
 ---
 
@@ -175,29 +89,42 @@ Learning Speed  ███████████████░ 94%
 
 ---
 
+# 🚀 Featured Technologies
+
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/codewithgradi/codewithgradi/output/snake.svg" alt="Snake animation"/>
+| React                                                        | Next.js                                                       | .NET                                                          | Python                                                        | PostgreSQL                                                      | MongoDB                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=react" width="65"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="65"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="65"/> | <img src="https://skillicons.dev/icons?i=python" width="65"/> | <img src="https://skillicons.dev/icons?i=postgres" width="65"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="65"/> |
 
 </div>
 
 ---
 
-<div align="center">
+# 🌌 Development Philosophy
 
-## 🌍 Profile Views
+> "Code should not only solve today's problems but create possibilities for tomorrow."
 
-<img src="https://komarev.com/ghpvc/?username=codewithgradi&label=Profile+Views&color=00F7FF&style=flat-square" />
-
-</div>
+* Build scalable systems.
+* Write maintainable code.
+* Continuously learn.
+* Focus on user experience.
+* Create technology that matters.
 
 ---
 
-<div align="center">
+# 🧠 Currently Learning
 
-## ⚙️ System Status
+* Advanced .NET Development
+* Distributed Systems
+* Cloud Infrastructure
+* System Design
+* AI Integrations
+* Mobile Development
+
+---
+
+# ⚙️ System Status
 
 ```text
 STATUS: ONLINE
@@ -206,6 +133,14 @@ UPTIME: 99.99%
 MODE: SHIPPING FEATURES
 NEXT TARGET: WORLD CLASS ENGINEER
 ```
+
+---
+
+<div align="center">
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=codewithgradi&label=Profile+Views&color=0e75b6&style=flat-square" />
 
 </div>
 
@@ -219,9 +154,13 @@ NEXT TARGET: WORLD CLASS ENGINEER
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+   
+
 <a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+   
 
 <a href="https://twitter.com">
 <img src="https://skillicons.dev/icons?i=twitter" />
