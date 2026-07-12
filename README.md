@@ -56,9 +56,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgradi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -68,7 +68,7 @@
 
 ## 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithgradi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -78,7 +78,7 @@
 
 ## 📈 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithgradi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -88,7 +88,7 @@
 
 ## 🏆 Achievement System
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codewithgradi&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -172,7 +172,7 @@ Learning Speed  ███████████████░ 94%
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/codewithgradi/codewithgradi/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -182,7 +182,7 @@ Learning Speed  ███████████████░ 94%
 
 ### 🌍 Visitors
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile+Views\&color=0e75b6\&style=flat)
+![](https://komarev.com/ghpvc/?username=codewithgradi\&label=Profile+Views\&color=0e75b6\&style=flat)
 
 </div>
 
