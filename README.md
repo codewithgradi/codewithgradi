@@ -1,79 +1,207 @@
-<table border="0" width="100%">
-  <tr valign="top">
-    <!-- Left Column: ASCII Profile Matrix -->
-    <td width="40%">
-<pre>
-       g@M%%%@N%Nw,,
-     ,M*|`||*%gNM=]MM%g||%N,
-    p!`  '! '|`   ''||jhlj%w
-   ,@L`             '!|j%M]%M
-  ]j'` .,wp@pw,       '|||%Wg
- ,|` [@@@@@@@@@pp,       ||||
- '| `]@@@@@@@@@@@@p
-   :]%%@@@@@@%%%%k%h '*||mkr   *
-   j%M`    |jkk`   ~nrn=|i    *
-   ! jrr*^          `"! L''|'!
-   j lp;.,  ,/ @@   ,;\nmy ` ~,
-  i r @@@@mmHM @@@@ ~****M*,p ,
-  | ]@@@@HHH]g@M%%%%H,jmgpmb% j
-  ;;%%%%%k%@[.,n|:.,;j%%k\%kk%',[
-  H\%%k%%j%k||,,;:;j||'%ij}]@
-  "djjmkL,"]]`[,,,wwxw;#kjk`
-     %;%km%%%%M|%%jkkii||[
-      kjj%%kkkl||||||||`
-        |jm%H@@b%%kkmk%i!,[
-        @p|j%%%%jkk|||j`*;j
-        ]@@@g|`       ,;;j%k
-        @@@@@mgmp:,,,,;;jj%%k%
-        @@@@@@%%kgki!|jjjj%k%@ .
-   .^['' %@@@HH%b%k{illljkjj%%%% ; `,
- =[' ` . %HH%%%%H@gkilljjj%kk%".  ` \i
-</pre>
-<p align="center">
-  <img src="https://img.shields.io/badge/System-Active-00ff66?style=flat-square&logo=cpu&logoColor=00ff66&labelColor=101414" alt="System Active" />
-  <img src="https://img.shields.io/badge/Security-Authenticated-00e5ff?style=flat-square&logo=matrix&logoColor=00e5ff&labelColor=101414" alt="Security Authenticated" />
-</p>
-    </td>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Gradi Puata**
 
-    <!-- Right Column: System Diagnostics & Live Analytics Grid -->
-    <td width="60%">
-<pre>
-<b>codewithgradi</b>@<b>localhost</b> 
----------------------------------------
-• <b>OS</b>: ................ Linux, Windows
-• <b>Uptime</b>: .............. 22 years old
-• <b>Kernel/Role</b>: .... Software Engineer
-• <b>IDE</b>: ....... VS Code, Visual Studio
+<div align="center">
 
-• <b>Languages.Prog</b>: .. C#, Python, TS
-• <b>Languages.Markup</b>: .. HTML, CSS, JSON
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-• <b>Hobbies.Soft</b>: .... Building Web APIs
-• <b>Hobbies.Phys</b>: .... Run, Basketball
+</div>
 
-• <b>Contact.Email</b>: .. gradipuata@gmail.com
-• <b>Contact.In</b>: .......... gradi-puata
-</pre>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=codewithgradi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Gradi's GitHub Diagnostics" width="400" />
+<img align="right" width="420" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif">
 
-    </td>
-  </tr>
+```yaml
+┌──────────────────────────────────────────┐
+│ SYSTEM PROFILE INITIALIZED              │
+├──────────────────────────────────────────┤
+│ Name      : Gradi Puata                 │
+│ Role      : Software Engineer           │
+│ Location  : Durban, South Africa        │
+│ Education : BSc Information Technology  │
+│ Focus     : Full Stack Development      │
+│ Backend   : .NET • Python • APIs        │
+│ Frontend  : React • Next.js • TS        │
+│ Database  : PostgreSQL • MongoDB        │
+│ Status    : Building the future...      │
+└──────────────────────────────────────────┘
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+### Frontend
+
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,fastapi)
+
+### Databases
+
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite)
+
+### Tools & Platforms
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievement System
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🧠 Current Mission Objectives
+
+```text
+[███████████████████████░░░░░] Full Stack Engineering
+[█████████████████████░░░░░░░] Cloud Architecture
+[███████████████████░░░░░░░░░] AI Integration
+[████████████████████░░░░░░░░] Backend Systems
+[██████████████████░░░░░░░░░░] Mobile Development
+```
+
+---
+
+# 🚀 Featured Technologies
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
+<br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dotnet" width="65"/>
+<br>.NET
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+<br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/>
+<br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65"/>
+<br>MongoDB
+</td>
+</tr>
 </table>
 
-<!-- Section Break: Core Telemetry -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=60&section=header&text=SYSTEM%20TELEMETRY%20DATA&fontSize=16&fontColor=1a1b26" width="100%" />
-</p>
+---
 
-<!-- Futuristic Analytics Grid -->
-<table border="0" width="100%">
-  <tr valign="top">
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgradi&layout=compact&theme=tokyonight&hide_border=true" alt="Language Analytics Pipeline" width="380" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithgradi&theme=tokyonight&hide_border=true" alt="GitHub Core Matrix Streak Engine" width="380" />
-    </td>
-  </tr>
-</table>
+# 🌌 Development Philosophy
+
+> "Code should not only solve today's problems but create possibilities for tomorrow."
+
+* Build scalable systems.
+* Write maintainable code.
+* Continuously learn.
+* Focus on user experience.
+* Create technology that matters.
+
+---
+
+# 📡 Developer Telemetry
+
+```text
+CPU Usage       ████████████░░░░ 76%
+Coffee Level    ███████████████░ 92%
+Bug Resistance  ███████████░░░░░ 69%
+Motivation      ████████████████ 100%
+Learning Speed  ███████████████░ 94%
+```
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌍 Visitors
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile+Views\&color=0e75b6\&style=flat)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ System Status
+
+```text
+STATUS: ONLINE
+BUILD VERSION: v2026.7
+UPTIME: 99.99%
+MODE: SHIPPING FEATURES
+NEXT TARGET: WORLD CLASS ENGINEER
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
