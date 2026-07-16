@@ -65,27 +65,6 @@
 
 ---
 
-# 🚀 Current Focus
-
-```text
-███████████████████████░░░ Full Stack Engineering
-█████████████████████░░░░░ Cloud Architecture
-████████████████████░░░░░░ Backend Systems
-███████████████████░░░░░░░ AI Integrations
-██████████████████░░░░░░░░ Mobile Development
-```
-
----
-
-# 📡 Developer Telemetry
-
-```text
-CPU Usage       ████████████░░░░ 76%
-Coffee Level    ███████████████░ 92%
-Bug Resistance  ███████████░░░░░ 69%
-Motivation      ████████████████ 100%
-Learning Speed  ███████████████░ 94%
-```
 
 ---
 
@@ -99,17 +78,6 @@ Learning Speed  ███████████████░ 94%
 
 </div>
 
----
-
-# 🌌 Development Philosophy
-
-> "Code should not only solve today's problems but create possibilities for tomorrow."
-
-* Build scalable systems.
-* Write maintainable code.
-* Continuously learn.
-* Focus on user experience.
-* Create technology that matters.
 
 ---
 
@@ -133,40 +101,6 @@ UPTIME: 99.99%
 MODE: SHIPPING FEATURES
 NEXT TARGET: WORLD CLASS ENGINEER
 ```
-
----
-
-<div align="center">
-
-## 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=codewithgradi&label=Profile+Views&color=0e75b6&style=flat-square" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Connect With Me
-
-<a href="https://github.com/codewithgradi">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-   
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-   
-
-<a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-</div>
 
 ---
 
