@@ -41,29 +41,6 @@
 
 ---
 
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,fastapi" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode" />
-
-</div>
-
----
 
 
 ---
