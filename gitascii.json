@@ -26,8 +26,8 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 136,
-        "y": 122
+        "x": 24,
+        "y": 106
       },
       "size": {
         "width": 504,
