@@ -14,7 +14,8 @@
       },
       "config": {
         "accentColor": "#f0f0f0",
-        "showTitle": true
+        "showTitle": true,
+        "backgroundColor": "#0d1117"
       },
       "locked": false,
       "visible": true,
@@ -29,8 +30,8 @@
         "y": 106
       },
       "size": {
-        "width": 280,
-        "height": 280
+        "width": 248,
+        "height": 248
       },
       "config": {
         "detail": "medium",
@@ -11518,8 +11519,10 @@
             "#142340"
           ]
         ],
-        "accentColor": "#1f1f1f",
-        "sourceType": "avatar"
+        "accentColor": "#7a7a7a",
+        "sourceType": "avatar",
+        "textColor": "#ffffff",
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -11535,34 +11538,35 @@
       },
       "size": {
         "width": 504,
-        "height": 280
+        "height": 248
       },
-      "config": {},
+      "config": {
+        "showAchievements": true,
+        "animationType": "typewriter",
+        "animationPreviewKey": 8,
+        "showTimezone": true,
+        "showStatus": true,
+        "showGists": false,
+        "animationDuration": 3000,
+        "animationEasing": "ease-out",
+        "showEmail": false,
+        "showOrgs": false,
+        "showContactSection": true,
+        "showStatsSection": true,
+        "showMainSection": true,
+        "showStars": false,
+        "showHighlights": false,
+        "showJoined": false,
+        "backgroundColor": "#0d1117"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1787437024875_2"
-    },
-    {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 132,
-        "y": 402
-      },
-      "size": {
-        "width": 536,
-        "height": 160
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1787437024875_3"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "#0d1117",
     "textColor": "#e5e5e5",
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
