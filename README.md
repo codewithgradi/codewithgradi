@@ -12,7 +12,7 @@
 
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/codewithgradi?v=1787437714871"
+    src="https://gitascii.com/api/codewithgradi?v=1787438504899"
     alt="GitAscii Widget"
     width="100%"
   />
