@@ -8,3 +8,12 @@
 
 
 
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/codewithgradi?v=1787437355277"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
